@@ -1,5 +1,5 @@
 <h1 align="center">Tom Verelst</h1>
-<h3 align="center">Software Engineer | Cloud-Native Enthusiast | Rust Advocate</h3>
+<h3 align="center">Software Engineer</h3>
 
 <p align="center">
   📍 Antwerp, Belgium
@@ -15,5 +15,3 @@ I decided to swap my endless annotations for lifetimes and have been happily wri
 
 I am currently working on [Kannika Armory](https://docs.kannika.io), 
 a Kubernetes-natives backup solution for Kafka written in Rust.
-
-You can contact me at [https://cruxy.eu](https://cruxy.eu).
